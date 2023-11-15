@@ -1,5 +1,8 @@
-# Perfect Makuwerere R204448U
-# Rirwa Anesu R204432D
+# Primrose Chifamba R205534Y
+# Anesu Mudimu R205744Y
+# Rudo Mudihwa  R204413Q
+# Omega Madera  R203651M
+# Blessings Usiku R05540G
 
 <h2> 🚀 &nbsp;LEGAL DOCUMENT SUMMARIZER</h2>
 
