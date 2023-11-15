@@ -2,7 +2,7 @@
 # Anesu Mudimu R205744Y
 # Rudo Mudihwa  R204413Q
 # Omega Madera  R203651M
-# Blessings Usiku R05540G
+# Blessings Usiku R205540G
 
 <h2> 🚀 &nbsp;LEGAL DOCUMENT SUMMARIZER</h2>
 
