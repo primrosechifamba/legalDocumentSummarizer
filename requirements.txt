@@ -1,0 +1,8 @@
+pyperclip
+python-decouple
+streamlit
+openai
+python-docx
+fpdf
+PyPDF2
+chardet
