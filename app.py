@@ -12,8 +12,7 @@ import base64
 import pyperclip
 
 # Load the API key from the .env file
-api_key = st.secrets["API_KEY"]
-
+api_key = "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"
 # Set up OpenAI API key
 openai.api_key = api_key
 
